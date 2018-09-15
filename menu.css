@@ -1,0 +1,28 @@
+			#pos1 {
+   				position:absolute;
+   				top:50%;
+    			left:50%;
+   			 	margin-top:-320px;
+    			margin-left:-180px;
+			}
+			#pos2 {
+   				position:absolute;
+   				top:50%;
+    			left:50%;
+   			 	margin-top:-320px;
+    			margin-left:-120px;
+			}
+			#pos3 {
+   				position:absolute;
+   				top:50%;
+    			left:50%;
+   			 	margin-top:-320px;
+    			margin-left:+0px;
+			}
+			#pos4 {
+   				position:absolute;
+   				top:50%;
+    			left:50%;
+   			 	margin-top:-320px;
+    			margin-left:+120px;
+			}
